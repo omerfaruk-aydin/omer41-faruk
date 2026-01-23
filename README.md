@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ömer Faruk Aydın
+# ⚡ Ömer Faruk AYDİN
 ### **Full-Stack Software Engineer | Digital Solution Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-faruk-aydin-54b192278/)
