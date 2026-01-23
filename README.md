@@ -43,7 +43,7 @@ Currently focused on scaling digital infrastructures at **URETYCO**.
 ---
 
 ### 🌍 3D Contribution Universe
-<!-- Bu harita 2. Adımdaki Action kurulunca otomatik görünecek -->
+<!-- Bu harita Action kurulunca otomatik görünecek -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/omer41-faruk/omer41-faruk/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
