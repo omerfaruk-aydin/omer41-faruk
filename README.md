@@ -19,7 +19,7 @@ Currently focused on scaling digital infrastructures at **URETYCO**.
 - 🔭 Working on: **Enterprise Resource Planning (ERP) & Automation**
 - ⚙️ Tech Stack: **TypeScript, Next.js, Supabase, Node.js**
 - 💬 Ask me about: **Full-stack architecture, Database optimization**
-- 📧 Reach me: **omer@urety.co**
+- 📧 Reach me: **omerfaruk.aydin@urety.co**
 
 ---
 
